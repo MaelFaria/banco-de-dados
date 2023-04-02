@@ -1,9 +1,9 @@
-# Diagram Entidade Relacionamento
+# Sistema de cadastro de jogos
 
 > Status do projeto: Em desenvolvimento
 
-Para visualizar o diagrama, você terá que usar o
+Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
-Br_modelo
+node app.js
 ```
